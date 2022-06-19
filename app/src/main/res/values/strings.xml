@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NuomTechnicalTask</string>
+    <string name="random_joke">Random Joke</string>
+    <string name="search_joke">Search for Joke</string>
+    <string name="categories_joke">Joke Categories</string>
+    <string name="ok">OK</string>
+    <string name="no_result">We could not found any search for your query. Try to search for a new one!</string>
+    <string name="select_joke_category">Select Joke Category</string>
+</resources>
