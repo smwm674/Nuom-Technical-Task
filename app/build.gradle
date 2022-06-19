@@ -65,7 +65,5 @@ dependencies {
     //Hilt
     implementation "com.google.dagger:hilt-android:$rootProject.daggerVersion"
     kapt "com.google.dagger:hilt-android-compiler:$rootProject.daggerVersion"
-    //Glide
-    implementation "com.github.bumptech.glide:glide:$rootProject.glide"
-    annotationProcessor "com.github.bumptech.glide:compiler:$rootProject.glide"
+
 }
